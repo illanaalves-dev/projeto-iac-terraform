@@ -1,0 +1,6 @@
+# Nunca envie estes arquivos ao GitHub
+.terraform/
+*.tfstate
+*.tfstate.*
+*.pem
+crash.log
